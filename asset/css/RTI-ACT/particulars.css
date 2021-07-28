@@ -1,0 +1,17 @@
+.content p,
+.content ol li {
+  color: #0a0a0a;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: justify;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.content p {
+  text-indent: 20px;
+}
+
+.content ol {
+  list-style-type: upper-roman;
+  padding-left: 30px;
+}
